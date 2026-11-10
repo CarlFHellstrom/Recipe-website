@@ -14,5 +14,10 @@
     "better-sqlite3": "^13.0.3",
     "cors": "^2.8.6",
     "express": "^5.3.0"
+  },
+  "name": "server",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch index.js"
   }
 }
